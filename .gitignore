@@ -1,5 +1,6 @@
 *.db
 *.db-journal
+prefixes.json
 __pycache__
 lib/bot/token.0
 token.txt
