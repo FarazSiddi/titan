@@ -61,7 +61,7 @@ async def on_guild_join(guild):
     with open('prefixes.json', 'r') as f:
         prefixes = json.load(f)
 
-    prefixes[str(guild.id)] = 'r3!'
+    prefixes[str(guild.id)] = 't.'
     
     with open('prefixes.json', 'w') as f:
         json.dump(prefixes, f, indent=4)
