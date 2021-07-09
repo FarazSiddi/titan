@@ -16,8 +16,8 @@ Expected Updates (v0.1.0?):
 certain segments of code can be triggered at a given time. To achieve this, a sqlite database will be installed which will need 
 most of the code rewritten beforehand.
 
-- A better customized r3!help command interface
+- A better customized t.help command interface
 
 - More organized files and folders for better management
 
-- More commands and features such as r3!poll, starboard, r3!roleassign, r3!warn, r3!infractions, etc.
+- More commands and features such as t.poll, starboard, t.roleassign, t.warn, t.infractions, etc.
