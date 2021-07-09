@@ -10,7 +10,7 @@ More information will be added as time and more ideas will be implemented.
 
 Thank you.
 
-Expected Updates (0.1.0?):
+Expected Updates (v0.1.0?):
 
 - Code Revamp. To create more complex and sophisticated commands, this program will require a package called "apscheduler", where 
 certain segments of code can be triggered at a given time. To achieve this, a sqlite database will be installed which will need 
