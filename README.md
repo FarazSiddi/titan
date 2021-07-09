@@ -20,4 +20,4 @@ most of the code rewritten beforehand.
 
 - More organized files and folders for better management
 
-- More commands and features such as r3!poll, starboard, r3!roleassign, r3!warn, r3!infractions, etc.
+- More commands and features such as t.poll, t.starboard, t.roleassign, t.warn, t.infractions, etc.
