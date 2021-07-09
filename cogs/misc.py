@@ -153,11 +153,5 @@ class Misc(commands.Cog):
 
         await ctx.send(embed=embed)
 
-    # Members with a specialized role can use this command to create an automatic role assignment prompt
-    @commands.command()
-    @commands.has_permissions(ban_members = True)
-    async def auto_assign_roles(self, ctx):
-        pass
-
 def setup(client):
     client.add_cog(Misc(client))
