@@ -4,7 +4,7 @@ Reap3r is a discord bot made by null#8672 on discord (null-2020 on GitHub)
 This is my first ever python project that is uploaded to the GitHub repository, and will be one of the few projects that I will actively update.
 
 Reap3r is intended to be a basic moderation bot with a few more interesting commands that will stand out, and is also showcased as a culmination
-of my knowledge of the python syntax and library.
+of my knowledge of the python syntax and libraries.
 
 More information will be added as time and more ideas will be implemented.
 
