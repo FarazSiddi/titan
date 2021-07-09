@@ -1,4 +1,4 @@
-# reap3r (v0.0.0)
+# Reap3r (v0.0.0)
 Reap3r is a discord bot made by null#8672 on discord (null-2020 on GitHub)
 
 This is my first ever python project that is uploaded to the GitHub repository, and will be one of the few projects that I will actively update.
