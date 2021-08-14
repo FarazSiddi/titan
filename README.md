@@ -27,7 +27,7 @@ Updates:
 
 - Instead of asyncio, the bot now uses apscheduler to set times for certain commands such as t.giveaway, t.poll, etc.
 
-Expected Updates (v0.2.0?):
+Expected Updates (v0.2?):
 
 - Webscraping websites such as Urban Dictionary, Course pages and program calendars on the Ryerson website (if allowed), Reddit, and more. 
 
