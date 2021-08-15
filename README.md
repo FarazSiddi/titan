@@ -28,6 +28,7 @@ Updates:
 - Instead of asyncio, the bot now uses apscheduler to set times for certain commands such as t.giveaway, t.poll, etc.
 
 Expected Updates (v0.2?):
+- Load, unload, and reload cogs using discord commands. This is so one can make changes to the bot without having to shut it down beforehand.
 
 - Webscraping websites such as Urban Dictionary, Course pages and program calendars on the Ryerson website (if allowed), Reddit, and more. 
 
