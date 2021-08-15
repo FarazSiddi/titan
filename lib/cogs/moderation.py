@@ -414,7 +414,7 @@ class Moderation(Cog):
                     await ctx.send("Action complete")
 
                     if len(unmutes):
-                        await sleep(minutes*60)
+                        await sleep(minutes)
                         await self.unmute(ctx, targets)
 
     @mute_members.error
