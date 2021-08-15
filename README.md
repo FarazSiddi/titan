@@ -1,4 +1,4 @@
-# titan (v0.0.0)
+# titan (v0.1.0)
 Titan is a discord bot made by null#8672 on discord (null-2020 on GitHub)
 
 This is my first ever python project that is uploaded to the GitHub repository, and will be one of the few projects that I will actively update.
@@ -10,14 +10,30 @@ More information will be added as time and more ideas will be implemented.
 
 Thank you.
 
-Expected Updates (v0.1.0?):
+Updates:
+- Revamped the source code of the bot
 
-- Code Revamp. To create more complex and sophisticated commands, this program will require a package called "apscheduler", where 
-certain segments of code can be triggered at a given time. To achieve this, a sqlite database will be installed which will need 
-most of the code rewritten beforehand.
+- Changed and improved the arrangement of files and folders for better code management.
 
-- A better customized t.help command interface
+- Added more commands such as t.bonk, t.warn, t.poll, t.starboard, and more.
 
-- More organized files and folders for better management
+- Added a serverwide leveling and ranking system.
 
-- More commands and features such as t.poll, starboard, t.roleassign, t.warn, t.infractions, etc.
+- New and more refined custom help menu (will tweak it further in future updates).
+
+- Added a log channel where moderators, administrators, and owners can check for member updates and events.
+
+- Introduced a SQL storage system using sqlite3 with Python. This means commands such as t.rank, t.leaderboard, etc. will make use of this system.
+
+- Instead of asyncio, the bot now uses apscheduler to set times for certain commands such as t.giveaway, t.poll, etc.
+
+Expected Updates (v0.2?):
+- Load, unload, and reload cogs using discord commands. This is so one can make changes to the bot without having to shut it down beforehand.
+
+- Webscraping websites such as Urban Dictionary, Course pages and program calendars on the Ryerson website (if allowed), Reddit, and more. 
+
+- Adding a math cog to allow users to calculate math problems through numpy, Pandas, seaborne?, and matplotlib.
+
+- Adding new commands for the "fun" cog.
+
+- Fixing and improving existing commands and bugs.
