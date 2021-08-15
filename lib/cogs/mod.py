@@ -47,7 +47,7 @@ class HelpMenu(ListPageSource):
 
         return await self.write_page(menu, offset, fields)
 
-class Moderation(Cog):
+class Mod(Cog):
     def __init__(self, bot):
         self.bot = bot
 
@@ -472,7 +472,7 @@ class Moderation(Cog):
         if not self.bot.ready:
             self.log_channel = self.bot.get_channel(864575300981096488)
 
-            self.bot.cogs_ready.ready_up("moderation")
+            self.bot.cogs_ready.ready_up("mod")
 
 def setup(bot):
-    bot.add_cog(Moderation(bot))
+    bot.add_cog(Mod(bot))

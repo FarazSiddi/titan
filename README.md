@@ -1,4 +1,4 @@
-# titan (v0.1.0)
+# titan (v0.1.1)
 Titan is a discord bot made by null#8672 on discord (null-2020 on GitHub)
 
 This is my first ever python project that is uploaded to the GitHub repository, and will be one of the few projects that I will actively update.
@@ -10,7 +10,13 @@ More information will be added as time and more ideas will be implemented.
 
 Thank you.
 
-Updates:
+Updates (v0.1.1):
+- Added 3 new commands for the bot developers and owner to use: t.lcog (loads cog), t.uncog (unloads cog), and t.recog (reloads cog). 
+  This is for making changes to the bot without having to shut it down beforehand, preventing some bot functions from malfunctioning.
+
+- Shortened the name of the cog that holds moderation commands: from "moderation.py" to "mod.py"
+
+Updates (v0.1):
 - Revamped the source code of the bot
 
 - Changed and improved the arrangement of files and folders for better code management.
