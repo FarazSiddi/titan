@@ -1,3 +1,14 @@
+# Important (please read below)
+Unfortunately with the recent news regarding the future of the discord.py library, this project will not be continued any further. Since this
+is the end of Titan's development, the program should still be functional for a few more years as of this date (08/28/2021). It is likely there 
+will be a new and better discord bot that will be developed in the future, which will also be supported with a newer and more relevant library. 
+However, there is no guarantee that another discord bot will be developed, but there is a good chance that it will be made under a different
+name and programming language (likely JS or Rust).
+
+Thank you for the support, and be sure to take a look at my other projects in the meantime.
+
+See here: https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1
+
 # titan (v0.1.1)
 Titan is a discord bot made by null#8672 on discord (null-2020 on GitHub)
 
